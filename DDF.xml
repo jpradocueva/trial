@@ -107,8 +107,8 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Source>2</Source>
         <Ver>1.0</Ver>
         <!-- this is the first version 1.0 of this object 10241.xml, it was stored in a release called "Release-2_0". The name of the release is not relevant -->
-        <DDF>/Release-2_0/10241.xml</DDF>
-        <LWM2M>/Release-2_0/10241.xml</LWM2M>
+        <DDF>/Release-v2_0/10241.xml</DDF>
+        <LWM2M>/Release-v2_0/10241.xml</LWM2M>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
