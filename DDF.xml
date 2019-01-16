@@ -20,7 +20,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <!-- URL to the xml file describing the object -->
         <DDF>LWM2M_Security-v1_0.xml</DDF>
         <!-- Link that opens the object in the LwM2M Editor Tool -->
-        <LWM2M>LWM2M_Security-V1_0.xml</LWM2M>
+        <LWM2M>LWM2M_Security-v1_0.xml</LWM2M>
         <!-- Link that opens the Object in the Vorto environment -->
         <Vorto>http://vorto.eclipse.org/resolve/lwm2m/Object/ObjectID/0</Vorto>
         <!-- 0 => if link to object should not be visible, 1 => if object should be visible (default) -->
@@ -91,7 +91,6 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Ver>1.0</Ver>
         <DDF>2050.xml</DDF>
         <LWM2M>2050.xml</LWM2M>
-        <LWM2M></LWM2M>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS>http://www.onem2m.org/images/files/deliverables/TS-0005-Management_Enablement_(OMA)-V1_0_1.pdf</TS>
@@ -107,8 +106,8 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Source>2</Source>
         <Ver>1.0</Ver>
         <!-- this is the first version 1.0 of this object 10241.xml, it was stored in a release called "Release-2_0". The name of the release is not relevant -->
-        <DDF>/Release-v2_0/10241.xml</DDF>
-        <LWM2M>/Release-v2_0/10241.xml</LWM2M>
+        <DDF>/Release-v2.0/10241.xml</DDF>
+        <LWM2M>/Release-v2.0/10241.xml</LWM2M>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -157,8 +156,8 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>AT&amp;T</Owner>
         <Source>2</Source>
         <Ver>1.3</Ver>
-        <DDF>/version-2_0/10241.xml</DDF>
-        <LWM2M>/version-2_0/10241.xml</LWM2M>
+        <DDF>/version-2.0/10241.xml</DDF>
+        <LWM2M>/version-2.0/10241.xml</LWM2M>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
