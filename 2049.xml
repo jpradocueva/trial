@@ -15,12 +15,8 @@
 				<RangeEnumeration></RangeEnumeration>
 				<Units></Units>
 				<Description><![CDATA[Contains the reference to the CMDH policies (CmdhPolicy Object Instance) currently active for the associated CSE.]]></Description>
-			</Item>
-			
-			
-			
-			
-			</Resources>
+			</Item>	
+	       </Resources>
 		<Description2 />
 	</Object>
 </LWM2M>
