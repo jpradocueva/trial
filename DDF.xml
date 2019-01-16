@@ -120,6 +120,22 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>AT&amp;T</Owner>
         <Source>2</Source>
         <Ver>1.0</Ver>
+        <DDF>/rel1/10241.xml</DDF>
+        <LWM2M>/rel1/10241.xml</LWM2M>
+        <Vorto></Vorto>
+        <DDFLink>1</DDFLink>
+        <TS></TS>
+        <TSLink>0</TSLink>
+    </Item>
+    
+    <Item>
+        <ObjectID>10241</ObjectID>
+        <URN>urn:oma:lwm2m:x:10241:1.1</URN>
+        <Name>HostDeviceInfo</Name>
+        <Description>This LWM2M Object provides a range of host device related information which can be queried by the LWM2M Server. The host device is any integrated device with an embedded cellular radio module.</Description>
+        <Owner>AT&amp;T</Owner>
+        <Source>2</Source>
+        <Ver>1.1</Ver>
         <DDF>10241.xml</DDF>
         <LWM2M>10241.xml</LWM2M>
         <Vorto></Vorto>
