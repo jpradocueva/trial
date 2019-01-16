@@ -31,7 +31,6 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <TSLink>1</TSLink>
     </Item>
     
-<!--
     <Item>
         <ObjectID>2</ObjectID>
         <URN>urn:oma:lwm2m:oma:2</URN>
@@ -208,5 +207,4 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <TS></TS>
         <TSLink>0</TSLink>
     </Item>  
--->
 </DDFList>
