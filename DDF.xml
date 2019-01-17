@@ -120,8 +120,8 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>AT&amp;T</Owner>
         <Source>2</Source>
         <Ver>1.0</Ver>
-        <DDF>/rel1/10241.xml</DDF>
-        <LWM2M>/rel1/10241.xml</LWM2M>
+        <DDF>rel1/10241.xml</DDF>
+        <LWM2M>rel1/10241.xml</LWM2M>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -136,8 +136,8 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>AT&amp;T</Owner>
         <Source>2</Source>
         <Ver>1.1</Ver>
-        <DDF>/rel2/10241.xml</DDF>
-        <LWM2M>/rel2/10241.xml</LWM2M>
+        <DDF>rel2/10241.xml</DDF>
+        <LWM2M>rel2/10241.xml</LWM2M>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
