@@ -162,16 +162,16 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
     
     <Item>
         <ObjectID>10241</ObjectID>
-        <URN>TBC</URN>
-        <Name>TBC</Name>
-        <Description>TBC</Description>
-        <Owner>TBC</Owner>
+        <URN>urn:oma:lwm2m:x:10241:1.3</URN>
+        <Name>HostDeviceInfo</Name>
+        <Description>New revision 10241 v1.3</Description>
+        <Owner>OMA</Owner>
         <Source>2</Source>
-        <Ver>TBC</Ver>
-        <DDF>TBC</DDF>
-        <LWM2M>TBC</LWM2M>
+        <Ver>1.3</Ver>
+        <DDF>10241.xml</DDF>
+        <LWM2M>10241.xml</LWM2M>
         <Vorto></Vorto>
-        <DDFLink>0</DDFLink>
+        <DDFLink>1</DDFLink>
         <TS></TS>
         <TSLink>0</TSLink>
     </Item>
