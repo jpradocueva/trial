@@ -22,9 +22,9 @@ DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
 		<Name>HostDeviceInfo</Name>
 		<Description1><![CDATA[This LWM2M Object provides a range of host device related information which can be queried by the LWM2M Server. The host device is any integrated device with an embedded cellular radio module.]]></Description1>
 		<ObjectID>10241</ObjectID>
-		<ObjectURN>urn:oma:lwm2m:x:10241:1.1</ObjectURN>
+		<ObjectURN>urn:oma:lwm2m:x:10241:1.2</ObjectURN>
 		<LWM2MVersion>1.0</LWM2MVersion>
-		<ObjectVersion>1.1</ObjectVersion>
+		<ObjectVersion>1.2</ObjectVersion>
 		<MultipleInstances>Multiple</MultipleInstances>
 		<Mandatory>Mandatory</Mandatory>
 		<Resources>
@@ -73,6 +73,15 @@ DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
 				<Units></Units>
 				<Description><![CDATA[New resource (0) for object 10241 v1.1.]]></Description>
 			</Item>
+			<Item ID="12"><Name>Host Device Software Version</Name>
+				<Operations>R</Operations>
+				<MultipleInstances>Multiple</MultipleInstances>
+				<Mandatory>Mandatory</Mandatory>
+				<Type>String</Type>
+				<RangeEnumeration></RangeEnumeration>
+				<Units></Units>
+				<Description><![CDATA[New resource (12) for object 10241 v1.2.]]></Description>
+			</Item>			
 		</Resources>
 		<Description2 />
 	</Object>
