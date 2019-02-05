@@ -1,12 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!-- new blank line -->
-<!-- another blank line 13 Dec 9:20pm -->
-<!-- new line 16D 4:50pm -->
-<!-- new line Dec 16 9:43pm -->
-<!-- new line Dec 16 4:47pm -->
-<!-- new line Dec 17 9:23pm -->
-<!-- new line Dec 17 5:47pm -->
-<!--
+﻿<!--
  MIT License
 Copyright (c) 2018 AT&T
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, 
@@ -22,9 +14,9 @@ DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
 		<Name>HostDeviceInfo</Name>
 		<Description1><![CDATA[This LWM2M Object provides a range of host device related information which can be queried by the LWM2M Server. The host device is any integrated device with an embedded cellular radio module.]]></Description1>
 		<ObjectID>10241</ObjectID>
-		<ObjectURN>urn:oma:lwm2m:x:10241:1.3</ObjectURN>
-		<LWM2MVersion>1.0</LWM2MVersion>
-		<ObjectVersion>1.3</ObjectVersion>
+		<ObjectURN>urn:oma:lwm2m:x:10241</ObjectURN>
+		<LWM2MVersion />
+		<ObjectVersion />
 		<MultipleInstances>Multiple</MultipleInstances>
 		<Mandatory>Mandatory</Mandatory>
 		<Resources>
@@ -63,35 +55,7 @@ DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
 				<RangeEnumeration></RangeEnumeration>
 				<Units></Units>
 				<Description><![CDATA[Current software version of the host device. (manufacturer specified string).]]></Description>
-			</Item>
-		        <Item ID="0"><Name>Host Device Software Version</Name>
-				<Operations>R</Operations>
-				<MultipleInstances>Multiple</MultipleInstances>
-				<Mandatory>Mandatory</Mandatory>
-				<Type>String</Type>
-				<RangeEnumeration></RangeEnumeration>
-				<Units></Units>
-				<Description><![CDATA[New resource (0) for object 10241 v1.1.]]></Description>
-			</Item>
-			<Item ID="12"><Name>Host Device Software Version</Name>
-				<Operations>R</Operations>
-				<MultipleInstances>Multiple</MultipleInstances>
-				<Mandatory>Mandatory</Mandatory>
-				<Type>String</Type>
-				<RangeEnumeration></RangeEnumeration>
-				<Units></Units>
-				<Description><![CDATA[New resource (12) for object 10241 v1.2.]]></Description>
-			</Item>	
-			<Item ID="13"><Name>Host Device Software Version</Name>
-				<Operations>R</Operations>
-				<MultipleInstances>Multiple</MultipleInstances>
-				<Mandatory>Mandatory</Mandatory>
-				<Type>String</Type>
-				<RangeEnumeration></RangeEnumeration>
-				<Units></Units>
-				<Description><![CDATA[New resource (13) for object 10241 v1.3.]]></Description>
-			</Item>				
-		</Resources>
+			</Item></Resources>
 		<Description2 />
 	</Object>
 </LWM2M>
