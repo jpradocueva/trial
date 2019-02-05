@@ -19,8 +19,6 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Ver>1.0</Ver>
         <!-- URL to the xml file describing the object -->
         <DDF>LWM2M_Security-v1_0.xml</DDF>
-        <!-- Link that opens the object in the LwM2M Editor Tool -->
-        <LWM2M>LWM2M_Security-v1_0.xml</LWM2M>
         <!-- Link that opens the Object in the Vorto environment -->
         <Vorto>http://vorto.eclipse.org/resolve/lwm2m/Object/ObjectID/0</Vorto>
         <!-- 0 => if link to object should not be visible, 1 => if object should be visible (default) -->
@@ -40,7 +38,6 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Source>0</Source>
         <Ver>1.0</Ver>
         <DDF>LWM2M_Server-v1_0.xml</DDF>
-        <LWM2M>LWM2M_Server-v1_0.xml</LWM2M>
         <Vorto>http://vorto.eclipse.org/resolve/lwm2m/Object/ObjectID/1</Vorto>
         <DDFLink>1</DDFLink>
         <TS>http://www.openmobilealliance.org/release/LightweightM2M/V1_0_2-20180209-A/OMA-TS-LightweightM2M-V1_0_2-20180209-A.pdf</TS>
@@ -56,14 +53,13 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Source>0</Source>
         <Ver>1.0</Ver>
         <DDF>LWM2M_Access_Control-v1_0_2.xml</DDF>
-        <LWM2M>LWM2M_Access_Control-v1_0_2.xml</LWM2M>
         <Vorto>http://vorto.eclipse.org/resolve/lwm2m/Object/ObjectID/2</Vorto>
         <DDFLink>1</DDFLink>
         <TS>http://www.openmobilealliance.org/release/LightweightM2M/V1_0_2-20180209-A/OMA-TS-LightweightM2M-V1_0_2-20180209-A.pdf</TS>
         <TSLink>1</TSLink>
     </Item>
     
-        <Item>
+    <Item>
         <ObjectID>35</ObjectID>
         <URN>urn:oma:lwm2m:oma:35</URN>
         <Name>35</Name>
@@ -72,7 +68,6 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Source>0</Source>
         <Ver>1.0</Ver>
         <DDF>LwM2M-35.xml</DDF>
-        <LWM2M></LWM2M>
         <Vorto>http://vorto.eclipse.org/resolve/lwm2m/Object/ObjectID/2</Vorto>
         <DDFLink>1</DDFLink>
         <TS>http://www.openmobilealliance.org/release/LightweightM2M/V1_0_2-20180209-A/OMA-TS-LightweightM2M-V1_0_2-20180209-A.pdf</TS>
@@ -89,7 +84,6 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Source>1</Source>
         <Ver>1.0</Ver>
         <DDF>2048.xml</DDF>
-        <LWM2M>2048.xml</LWM2M>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS>http://www.onem2m.org/images/files/deliverables/TS-0005-Management_Enablement_(OMA)-V1_0_1.pdf</TS>
@@ -105,7 +99,6 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Source>1</Source>
         <Ver>1.0</Ver>
         <DDF>2049.xml</DDF>
-        <LWM2M>2049.xml</LWM2M>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS>http://www.onem2m.org/images/files/deliverables/TS-0005-Management_Enablement_(OMA)-V1_0_1.pdf</TS>
@@ -121,7 +114,6 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Source>1</Source>
         <Ver>1.0</Ver>
         <DDF>2050.xml</DDF>
-        <LWM2M>2050.xml</LWM2M>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -137,7 +129,6 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Source>1</Source>
         <Ver>1.0</Ver>
         <DDF>2051.xml</DDF>
-        <LWM2M>2050.xml</LWM2M>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -153,7 +144,6 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Source>2</Source>
         <Ver>1.0</Ver>
         <DDF>rel1/10241.xml</DDF>
-        <LWM2M>rel1/10241.xml</LWM2M>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -169,7 +159,6 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Source>2</Source>
         <Ver>1.1</Ver>
         <DDF>rel2/10241.xml</DDF>
-        <LWM2M>rel2/10241.xml</LWM2M>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -185,7 +174,6 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Source>2</Source>
         <Ver>1.2</Ver>
         <DDF>rel3/10241.xml</DDF>
-        <LWM2M>rel3/10241.xml</LWM2M>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -201,7 +189,6 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Source>2</Source>
         <Ver>1.3</Ver>
         <DDF>10241.xml</DDF>
-        <LWM2M>10241.xml</LWM2M>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -217,7 +204,6 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Source>2</Source>
         <Ver>1.0</Ver>
         <DDF>10242.xml</DDF>
-        <LWM2M>10241.xml</LWM2M>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
