@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="DDFList">
+    <xs:complexType mixed="true">
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" name="Item">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ObjectID" type="xs:unsignedShort" />
+              <xs:element name="URN" type="xs:string" />
+              <xs:element name="Name" type="xs:string" />
+              <xs:element name="Description" type="xs:string" />
+              <xs:element name="Owner" type="xs:string" />
+              <xs:element name="Source" type="xs:unsignedByte" />
+              <xs:element name="Ver" type="xs:string" />
+              <xs:element name="DDF" type="xs:string" />
+              <xs:element maxOccurs="unbounded" name="LWM2M" type="xs:string" />
+              <xs:element name="Vorto" type="xs:string" />
+              <xs:element name="DDFLink" type="xs:string" />
+              <xs:element name="TS" type="xs:string" />
+              <xs:element name="TSLink" type="xs:string" />
+              <xs:element minOccurs="0" name="LicenseType" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
