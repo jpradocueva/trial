@@ -217,7 +217,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Source>2</Source>
         <Ver>1.0</Ver>
         <DDF>10242.xml</DDF>
-        <LWM2M>10242.xml</LWM2M>
+        <LWM2M>10241.xml</LWM2M>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
