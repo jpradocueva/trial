@@ -99,6 +99,22 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
     <Item>
         <ObjectID>2050</ObjectID>
         <URN>urn:oma:lwm2m:ext:2050</URN>
+        <Name>CmdhDefEcValues</Name>
+        <Description>This Object represents default set of values for the Event Category parameter of an incoming request or response message.</Description>
+        <Owner>oneM2M</Owner>
+        <Source>1</Source>
+        <Ver>1.0</Ver>
+        <DDF>2051.xml</DDF>
+        <LWM2M>2050.xml</LWM2M>
+        <Vorto></Vorto>
+        <DDFLink>1</DDFLink>
+        <TS></TS>
+        <TSLink>0</TSLink>
+    </Item>
+    
+    <Item>
+        <ObjectID>2051</ObjectID>
+        <URN>urn:oma:lwm2m:ext:2051</URN>
         <Name>CmdhDefaults</Name>
         <Description>Defines which CMDH related parameters will be used by default.</Description>
         <Owner>oneM2M</Owner>
