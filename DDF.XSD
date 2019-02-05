@@ -14,7 +14,6 @@
               <xs:element name="Source" type="xs:unsignedByte" />
               <xs:element name="Ver" type="xs:string" />
               <xs:element name="DDF" type="xs:string" />
-              <xs:element maxOccurs="unbounded" name="LWM2M" type="xs:string" />
               <xs:element name="Vorto" type="xs:string" />
               <xs:element name="DDFLink" type="xs:string" />
               <xs:element name="TS" type="xs:string" />
