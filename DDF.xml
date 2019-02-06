@@ -410,7 +410,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>oneM2M</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/2048.xml</DDF>
+        <DDF>2048.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS>http://www.onem2m.org/images/files/deliverables/TS-0005-Management_Enablement_(OMA)-V1_0_1.pdf</TS>
@@ -425,7 +425,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>oneM2M</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/2049.xml</DDF>
+        <DDF>2049.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS>http://www.onem2m.org/images/files/deliverables/TS-0005-Management_Enablement_(OMA)-V1_0_1.pdf</TS>
@@ -440,7 +440,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>oneM2M</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/2050.xml</DDF>
+        <DDF>2050.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS>http://www.onem2m.org/images/files/deliverables/TS-0005-Management_Enablement_(OMA)-V1_0_1.pdf</TS>
@@ -455,7 +455,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>oneM2M</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/2051.xml</DDF>
+        <DDF>2051.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS>http://www.onem2m.org/images/files/deliverables/TS-0005-Management_Enablement_(OMA)-V1_0_1.pdf</TS>
@@ -470,7 +470,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>oneM2M</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/2052.xml</DDF>
+        <DDF>2052.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS>http://www.onem2m.org/images/files/deliverables/TS-0005-Management_Enablement_(OMA)-V1_0_1.pdf</TS>
@@ -485,7 +485,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>oneM2M</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/2053.xml</DDF>
+        <DDF>2053.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS>http://www.onem2m.org/images/files/deliverables/TS-0005-Management_Enablement_(OMA)-V1_0_1.pdf</TS>
@@ -500,7 +500,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>oneM2M</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/2054.xml</DDF>
+        <DDF>2054.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS>http://www.onem2m.org/images/files/deliverables/TS-0005-Management_Enablement_(OMA)-V1_0_1.pdf</TS>
@@ -515,7 +515,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>oneM2M</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/2055.xml</DDF>
+        <DDF>2055.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS>http://www.onem2m.org/images/files/deliverables/TS-0005-Management_Enablement_(OMA)-V1_0_1.pdf</TS>
@@ -530,7 +530,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>oneM2M</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/2056.xml</DDF>
+        <DDF>2056.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS>http://www.onem2m.org/images/files/deliverables/TS-0005-Management_Enablement_(OMA)-V1_0_1.pdf</TS>
@@ -545,7 +545,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Source>1</Source>
 
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/2057.xml</DDF>
+        <DDF>2057.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS>http://www.onem2m.org/images/files/deliverables/TS-0005-Management_Enablement_(OMA)-V1_0_1.pdf</TS>
@@ -559,7 +559,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>IPSO Alliance</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3200.xml</DDF>
+        <DDF>3200.xml</DDF>
         <Vorto>http://vorto.eclipse.org/resolve/lwm2m/Object/ObjectID/3200</Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -574,7 +574,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>IPSO Alliance</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3201.xml</DDF>
+        <DDF>3201.xml</DDF>
         <Vorto>http://vorto.eclipse.org/resolve/lwm2m/Object/ObjectID/3201</Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -589,7 +589,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>IPSO Alliance</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3202.xml</DDF>
+        <DDF>3202.xml</DDF>
         <Vorto>http://vorto.eclipse.org/resolve/lwm2m/Object/ObjectID/3202</Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -604,7 +604,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>IPSO Alliance</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3203.xml</DDF>
+        <DDF>3203.xml</DDF>
         <Vorto>http://vorto.eclipse.org/resolve/lwm2m/Object/ObjectID/3203</Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -619,7 +619,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>IPSO Alliance</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3300.xml</DDF>
+        <DDF>3300.xml</DDF>
         <Vorto>http://vorto.eclipse.org/resolve/lwm2m/Object/ObjectID/3300</Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -634,7 +634,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>IPSO Alliance</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3301.xml</DDF>
+        <DDF>3301.xml</DDF>
         <Vorto>http://vorto.eclipse.org/resolve/lwm2m/Object/ObjectID/3301</Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -649,7 +649,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>IPSO Alliance</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3302.xml</DDF>
+        <DDF>3302.xml</DDF>
         <Vorto>http://vorto.eclipse.org/resolve/lwm2m/Object/ObjectID/3302</Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -664,7 +664,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>IPSO Alliance</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3303.xml</DDF>
+        <DDF>3303.xml</DDF>
         <Vorto>http://vorto.eclipse.org/resolve/lwm2m/Object/ObjectID/3303</Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -679,7 +679,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>IPSO Alliance</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3304.xml</DDF>
+        <DDF>3304.xml</DDF>
         <Vorto>http://vorto.eclipse.org/resolve/lwm2m/Object/ObjectID/3304</Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -694,7 +694,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>IPSO Alliance</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3305.xml</DDF>
+        <DDF>3305.xml</DDF>
         <Vorto>http://vorto.eclipse.org/resolve/lwm2m/Object/ObjectID/3305</Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -709,7 +709,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>IPSO Alliance</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3306.xml</DDF>
+        <DDF>3306.xml</DDF>
         <Vorto>http://vorto.eclipse.org/resolve/lwm2m/Object/ObjectID/3306</Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -724,7 +724,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>IPSO Alliance</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3308.xml</DDF>
+        <DDF>3308.xml</DDF>
         <Vorto>http://vorto.eclipse.org/resolve/lwm2m/Object/ObjectID/3308</Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -739,7 +739,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>IPSO Alliance</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3310.xml</DDF>
+        <DDF>3310.xml</DDF>
         <Vorto>http://vorto.eclipse.org/resolve/lwm2m/Object/ObjectID/3310</Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -754,7 +754,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>IPSO Alliance</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3311.xml</DDF>
+        <DDF>3311.xml</DDF>
         <Vorto>http://vorto.eclipse.org/resolve/lwm2m/Object/ObjectID/3311</Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -769,7 +769,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>IPSO Alliance</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3312.xml</DDF>
+        <DDF>3312.xml</DDF>
         <Vorto>http://vorto.eclipse.org/resolve/lwm2m/Object/ObjectID/3312</Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -784,7 +784,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>IPSO Alliance</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3313.xml</DDF>
+        <DDF>3313.xml</DDF>
         <Vorto>http://vorto.eclipse.org/resolve/lwm2m/Object/ObjectID/3313</Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -799,7 +799,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>IPSO Alliance</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3314.xml</DDF>
+        <DDF>3314.xml</DDF>
         <Vorto>http://vorto.eclipse.org/resolve/lwm2m/Object/ObjectID/3314</Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -814,7 +814,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>IPSO Alliance</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3315.xml</DDF>
+        <DDF>3315.xml</DDF>
         <Vorto>http://vorto.eclipse.org/resolve/lwm2m/Object/ObjectID/3315</Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -829,7 +829,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>IPSO Alliance</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3316.xml</DDF>
+        <DDF>3316.xml</DDF>
         <Vorto>http://vorto.eclipse.org/resolve/lwm2m/Object/ObjectID/3316</Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -844,7 +844,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>IPSO Alliance</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3317.xml</DDF>
+        <DDF>3317.xml</DDF>
         <Vorto>http://vorto.eclipse.org/resolve/lwm2m/Object/ObjectID/3317</Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -859,7 +859,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>IPSO Alliance</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3318.xml</DDF>
+        <DDF>3318.xml</DDF>
         <Vorto>http://vorto.eclipse.org/resolve/lwm2m/Object/ObjectID/3318</Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -874,7 +874,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>IPSO Alliance</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3319.xml</DDF>
+        <DDF>3319.xml</DDF>
         <Vorto>http://vorto.eclipse.org/resolve/lwm2m/Object/ObjectID/3319</Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -889,7 +889,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>IPSO Alliance</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3320.xml</DDF>
+        <DDF>3320.xml</DDF>
         <Vorto>http://vorto.eclipse.org/resolve/lwm2m/Object/ObjectID/3320</Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -904,7 +904,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>IPSO Alliance</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3321.xml</DDF>
+        <DDF>3321.xml</DDF>
         <Vorto>http://vorto.eclipse.org/resolve/lwm2m/Object/ObjectID/3321</Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -919,7 +919,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>IPSO Alliance</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3322.xml</DDF>
+        <DDF>3322.xml</DDF>
         <Vorto>http://vorto.eclipse.org/resolve/lwm2m/Object/ObjectID/3322</Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -934,7 +934,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>IPSO Alliance</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3323.xml</DDF>
+        <DDF>3323.xml</DDF>
         <Vorto>http://vorto.eclipse.org/resolve/lwm2m/Object/ObjectID/3323</Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -949,7 +949,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>IPSO Alliance</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3324.xml</DDF>
+        <DDF>3324.xml</DDF>
         <Vorto>http://vorto.eclipse.org/resolve/lwm2m/Object/ObjectID/3324</Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -964,7 +964,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>IPSO Alliance</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3325.xml</DDF>
+        <DDF>3325.xml</DDF>
         <Vorto>http://vorto.eclipse.org/resolve/lwm2m/Object/ObjectID/3325</Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -979,7 +979,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>IPSO Alliance</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3326.xml</DDF>
+        <DDF>3326.xml</DDF>
         <Vorto>http://vorto.eclipse.org/resolve/lwm2m/Object/ObjectID/3326</Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -994,7 +994,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>IPSO Alliance</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3327.xml</DDF>
+        <DDF>3327.xml</DDF>
         <Vorto>http://vorto.eclipse.org/resolve/lwm2m/Object/ObjectID/3327</Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -1009,7 +1009,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>IPSO Alliance</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3328.xml</DDF>
+        <DDF>3328.xml</DDF>
         <Vorto>http://vorto.eclipse.org/resolve/lwm2m/Object/ObjectID/3328</Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -1024,7 +1024,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>IPSO Alliance</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3329.xml</DDF>
+        <DDF>3329.xml</DDF>
         <Vorto>http://vorto.eclipse.org/resolve/lwm2m/Object/ObjectID/3329</Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -1039,7 +1039,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>IPSO Alliance</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3330.xml</DDF>
+        <DDF>3330.xml</DDF>
         <Vorto>http://vorto.eclipse.org/resolve/lwm2m/Object/ObjectID/3330</Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -1054,7 +1054,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>IPSO Alliance</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3331.xml</DDF>
+        <DDF>3331.xml</DDF>
         <Vorto>http://vorto.eclipse.org/resolve/lwm2m/Object/ObjectID/3331</Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -1069,7 +1069,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>IPSO Alliance</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3332.xml</DDF>
+        <DDF>3332.xml</DDF>
         <Vorto>http://vorto.eclipse.org/resolve/lwm2m/Object/ObjectID/3332</Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -1084,7 +1084,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>IPSO Alliance</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3333.xml</DDF>
+        <DDF>3333.xml</DDF>
         <Vorto>http://vorto.eclipse.org/resolve/lwm2m/Object/ObjectID/3333</Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -1099,7 +1099,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>IPSO Alliance</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3334.xml</DDF>
+        <DDF>3334.xml</DDF>
         <Vorto>http://vorto.eclipse.org/resolve/lwm2m/Object/ObjectID/3334</Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -1114,7 +1114,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>IPSO Alliance</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3335.xml</DDF>
+        <DDF>3335.xml</DDF>
         <Vorto>http://vorto.eclipse.org/resolve/lwm2m/Object/ObjectID/3335</Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -1129,7 +1129,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>IPSO Alliance</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3336.xml</DDF>
+        <DDF>3336.xml</DDF>
         <Vorto>http://vorto.eclipse.org/resolve/lwm2m/Object/ObjectID/3336</Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -1144,7 +1144,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>IPSO Alliance</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3337.xml</DDF>
+        <DDF>3337.xml</DDF>
         <Vorto>http://vorto.eclipse.org/resolve/lwm2m/Object/ObjectID/3337</Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -1159,7 +1159,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>IPSO Alliance</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3338.xml</DDF>
+        <DDF>3338.xml</DDF>
         <Vorto>http://vorto.eclipse.org/resolve/lwm2m/Object/ObjectID/3338</Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -1174,7 +1174,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>IPSO Alliance</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3339.xml</DDF>
+        <DDF>3339.xml</DDF>
         <Vorto>http://vorto.eclipse.org/resolve/lwm2m/Object/ObjectID/3339</Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -1189,7 +1189,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>IPSO Alliance</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3340.xml</DDF>
+        <DDF>3340.xml</DDF>
         <Vorto>http://vorto.eclipse.org/resolve/lwm2m/Object/ObjectID/3340</Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -1204,7 +1204,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>IPSO Alliance</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3341.xml</DDF>
+        <DDF>3341.xml</DDF>
         <Vorto>http://vorto.eclipse.org/resolve/lwm2m/Object/ObjectID/3341</Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -1219,7 +1219,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>IPSO Alliance</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3342.xml</DDF>
+        <DDF>3342.xml</DDF>
         <Vorto>http://vorto.eclipse.org/resolve/lwm2m/Object/ObjectID/3342</Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -1234,7 +1234,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>IPSO Alliance</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3343.xml</DDF>
+        <DDF>3343.xml</DDF>
         <Vorto>http://vorto.eclipse.org/resolve/lwm2m/Object/ObjectID/3343</Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -1249,7 +1249,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>IPSO Alliance</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3344.xml</DDF>
+        <DDF>3344.xml</DDF>
         <Vorto>http://vorto.eclipse.org/resolve/lwm2m/Object/ObjectID/3344</Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -1264,7 +1264,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>IPSO Alliance</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3345.xml</DDF>
+        <DDF>3345.xml</DDF>
         <Vorto>http://vorto.eclipse.org/resolve/lwm2m/Object/ObjectID/3345</Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -1279,7 +1279,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>IPSO Alliance</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3346.xml</DDF>
+        <DDF>3346.xml</DDF>
         <Vorto>http://vorto.eclipse.org/resolve/lwm2m/Object/ObjectID/3346</Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -1294,7 +1294,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>IPSO Alliance</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3347.xml</DDF>
+        <DDF>3347.xml</DDF>
         <Vorto>http://vorto.eclipse.org/resolve/lwm2m/Object/ObjectID/3347</Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -1309,7 +1309,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>IPSO Alliance</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3348.xml</DDF>
+        <DDF>3348.xml</DDF>
         <Vorto>http://vorto.eclipse.org/resolve/lwm2m/Object/ObjectID/3348</Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -1323,7 +1323,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>IPSO Alliance</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3349.xml</DDF>
+        <DDF>3349.xml</DDF>
         <Vorto>http://vorto.eclipse.org/resolve/lwm2m/Object/ObjectID/3349</Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -1337,7 +1337,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>IPSO Alliance</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3350.xml</DDF>
+        <DDF>3350.xml</DDF>
         <Vorto>http://vorto.eclipse.org/resolve/lwm2m/Object/ObjectID/3350</Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -1351,7 +1351,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>GSMA</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3351.xml</DDF>
+        <DDF>3351.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -1365,7 +1365,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>GSMA</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3352.xml</DDF>
+        <DDF>3352.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -1379,7 +1379,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>GSMA</Owner>
         <Source>1</Source>
         <Ver />
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3353.xml</DDF>
+        <DDF>3353.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -1394,7 +1394,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>GSMA</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3354.xml</DDF>
+        <DDF>3354.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -1408,7 +1408,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>GSMA</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3355.xml</DDF>
+        <DDF>3355.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -1422,7 +1422,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>GSMA</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3356.xml</DDF>
+        <DDF>3356.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -1436,7 +1436,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>GSMA</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3357.xml</DDF>
+        <DDF>3357.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -1450,7 +1450,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>GSMA</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3358.xml</DDF>
+        <DDF>3358.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -1464,7 +1464,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>GSMA</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3359.xml</DDF>
+        <DDF>3359.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -1478,7 +1478,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>GSMA</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3360.xml</DDF>
+        <DDF>3360.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -1492,7 +1492,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>GSMA</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3361.xml</DDF>
+        <DDF>3361.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -1507,7 +1507,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>GSMA</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3362.xml</DDF>
+        <DDF>3362.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -1521,7 +1521,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>GSMA</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3363.xml</DDF>
+        <DDF>3363.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -1535,7 +1535,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>GSMA</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3364.xml</DDF>
+        <DDF>3364.xml</DDF>
         <Vorto></Vorto>
         <DDFLink> 1</DDFLink>
         <TS></TS>
@@ -1549,7 +1549,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>GSMA</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3365.xml</DDF>
+        <DDF>3365.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -1563,7 +1563,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>GSMA</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3366.xml</DDF>
+        <DDF>3366.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -1577,7 +1577,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>GSMA</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3367.xml</DDF>
+        <DDF>3367.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -1591,7 +1591,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>GSMA</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3368.xml</DDF>
+        <DDF>3368.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -1605,7 +1605,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>GSMA</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3369.xml</DDF>
+        <DDF>3369.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -1619,7 +1619,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>GSMA</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3370.xml</DDF>
+        <DDF>3370.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -1633,7 +1633,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>GSMA</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3371.xml</DDF>
+        <DDF>3371.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -1647,7 +1647,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>GSMA</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3372.xml</DDF>
+        <DDF>3372.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -1661,7 +1661,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>GSMA</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3373.xml</DDF>
+        <DDF>3373.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -1675,7 +1675,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>GSMA</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3374.xml</DDF>
+        <DDF>3374.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -1689,7 +1689,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>GSMA</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3375.xml</DDF>
+        <DDF>3375.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -1703,7 +1703,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>GSMA</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3376.xml</DDF>
+        <DDF>3376.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -1717,7 +1717,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>GSMA</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3377.xml</DDF>
+        <DDF>3377.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -1731,7 +1731,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>GSMA</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3378.xml</DDF>
+        <DDF>3378.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -1745,7 +1745,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>GSMA</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3379.xml</DDF>
+        <DDF>3379.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -1759,7 +1759,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>GSMA</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3380.xml</DDF>
+        <DDF>3380.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -1773,7 +1773,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>GSMA</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3381.xml</DDF>
+        <DDF>3381.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -1787,7 +1787,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>GSMA</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3382.xml</DDF>
+        <DDF>3382.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -1801,7 +1801,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>GSMA</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3383.xml</DDF>
+        <DDF>3383.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -1815,7 +1815,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>GSMA</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3384.xml</DDF>
+        <DDF>3384.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -1829,7 +1829,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>GSMA</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3385.xml</DDF>
+        <DDF>3385.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -1843,7 +1843,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>GSMA</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3386.xml</DDF>
+        <DDF>3386.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -1860,7 +1860,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>OpenAIS</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3387.xml</DDF>
+        <DDF>3387.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -1875,7 +1875,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>OpenAIS</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3388.xml</DDF>
+        <DDF>3388.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -1890,7 +1890,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>OpenAIS</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3389.xml</DDF>
+        <DDF>3389.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -1907,7 +1907,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>OpenAIS</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3390.xml</DDF>
+        <DDF>3390.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -1925,7 +1925,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>OpenAIS</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3391.xml</DDF>
+        <DDF>3391.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -1941,7 +1941,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>OpenAIS</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3392.xml</DDF>
+        <DDF>3392.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -1959,7 +1959,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>OpenAIS</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3393.xml</DDF>
+        <DDF>3393.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -1976,7 +1976,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>OpenAIS</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3394.xml</DDF>
+        <DDF>3394.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -1994,7 +1994,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>OpenAIS</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3395.xml</DDF>
+        <DDF>3395.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -2010,7 +2010,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>OpenAIS</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3396.xml</DDF>
+        <DDF>3396.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -2026,7 +2026,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>OpenAIS</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3397.xml</DDF>
+        <DDF>3397.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -2042,7 +2042,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>OpenAIS</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3398.xml</DDF>
+        <DDF>3398.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -2058,7 +2058,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>OpenAIS</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3399.xml</DDF>
+        <DDF>3399.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -2074,7 +2074,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>OpenAIS</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3400.xml</DDF>
+        <DDF>3400.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -2090,7 +2090,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>OpenAIS</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3401.xml</DDF>
+        <DDF>3401.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -2107,7 +2107,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>OpenAIS</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3402.xml</DDF>
+        <DDF>3402.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -2123,7 +2123,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>OpenAIS</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3403.xml</DDF>
+        <DDF>3403.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -2138,7 +2138,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>OpenAIS</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3404.xml</DDF>
+        <DDF>3404.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -2155,7 +2155,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>OpenAIS</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3405.xml</DDF>
+        <DDF>3405.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -2171,7 +2171,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>OpenAIS</Owner>
         <Source>1</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/3406.xml</DDF>
+        <DDF>3406.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -2185,7 +2185,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>AT&amp;T</Owner>
         <Source>2</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/10241.xml</DDF>
+        <DDF>10241.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -2200,7 +2200,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>Odins</Owner>
         <Source>2</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/10242.xml</DDF>
+        <DDF>10242.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -2215,7 +2215,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>Odins</Owner>
         <Source>2</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/10243.xml</DDF>
+        <DDF>10243.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -2230,7 +2230,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>Works System</Owner>
         <Source>2</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/10244.xml</DDF>
+        <DDF>10244.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -2244,7 +2244,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>Vodafone Group Services Ltd</Owner>
         <Source>2</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/10245.xml</DDF>
+        <DDF>10245.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -2258,7 +2258,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>Vodafone Group Services Ltd</Owner>
         <Source>2</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/10246.xml</DDF>
+        <DDF>10246.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -2272,7 +2272,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>Vodafone Group Services Ltd</Owner>
         <Source>2</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/10247.xml</DDF>
+        <DDF>10247.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -2286,7 +2286,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>Vodafone Group Services Ltd</Owner>
         <Source>2</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/10248.xml</DDF>
+        <DDF>10248.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -2300,7 +2300,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>Vodafone Group Services Ltd</Owner>
         <Source>2</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/10249.xml</DDF>
+        <DDF>10249.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -2314,7 +2314,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>Huawei Technologies Co., Ltd.</Owner>
         <Source>2</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/10250.xml</DDF>
+        <DDF>10250.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -2328,7 +2328,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>Cisco</Owner>
         <Source>2</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/10251.xml</DDF>
+        <DDF>10251.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -2342,7 +2342,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>ARM Limited</Owner>
         <Source>2</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/10252.xml</DDF>
+        <DDF>10252.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -2357,7 +2357,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>Lab R&amp;D Atos Pessac</Owner>
         <Source>2</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/10253.xml</DDF>
+        <DDF>10253.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -2371,7 +2371,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>World-Direct eBusiness</Owner>
         <Source>2</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/10254.xml</DDF>
+        <DDF>10254.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -2385,7 +2385,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>ARM Limited</Owner>
         <Source>2</Source>
         <Ver />
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/10255.xml</DDF>
+        <DDF>10255.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -2400,7 +2400,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>Huawei Technologies</Owner>
         <Source>2</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/10256.xml</DDF>
+        <DDF>10256.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -2414,7 +2414,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>Comsel System Ltd</Owner>
         <Source>2</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/10257.xml</DDF>
+        <DDF>10257.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -2428,7 +2428,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>World-Direct eBusiness</Owner>
         <Source>2</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/10258.xml</DDF>
+        <DDF>10258.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -2442,7 +2442,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>NetComm Wireless Limited</Owner>
         <Source>2</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/10259.xml</DDF>
+        <DDF>10259.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -2456,7 +2456,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>NetComm Wireless Limited</Owner>
         <Source>2</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/10260.xml</DDF>
+        <DDF>10260.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -2470,7 +2470,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>NetComm Wireless Limited</Owner>
         <Source>2</Source>
         <Ver>2.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/10260-2_0.xml</DDF>
+        <DDF>10260-2_0.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -2484,7 +2484,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>South East Water Corporation</Owner>
         <Source>2</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/10262.xml</DDF>
+        <DDF>10262.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -2498,7 +2498,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>South East Water Corporation</Owner>
         <Source>2</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/10263.xml</DDF>
+        <DDF>10263.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -2512,7 +2512,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>South East Water Corporation</Owner>
         <Source>2</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/10264.xml</DDF>
+        <DDF>10264.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -2526,7 +2526,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>South East Water Corporation</Owner>
         <Source>2</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/10265.xml</DDF>
+        <DDF>10265.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -2540,7 +2540,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>South East Water Corporation</Owner>
         <Source>2</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/10266.xml</DDF>
+        <DDF>10266.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -2554,7 +2554,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>South East Water Corporation</Owner>
         <Source>2</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/10267.xml</DDF>
+        <DDF>10267.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -2568,7 +2568,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>South East Water Corporation</Owner>
         <Source>2</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/10268.xml</DDF>
+        <DDF>10268.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -2582,7 +2582,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>South East Water Corporation</Owner>
         <Source>2</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/10269.xml</DDF>
+        <DDF>10269.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -2596,7 +2596,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>South East Water Corporation</Owner>
         <Source>2</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/10270.xml</DDF>
+        <DDF>10270.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -2610,7 +2610,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>South East Water Corporation</Owner>
         <Source>2</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/10271.xml</DDF>
+        <DDF>10271.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -2624,7 +2624,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>South East Water Corporation</Owner>
         <Source>2</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/10272.xml</DDF>
+        <DDF>10272.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -2638,7 +2638,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>South East Water Corporation</Owner>
         <Source>2</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/10273.xml</DDF>
+        <DDF>10273.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -2652,7 +2652,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>South East Water Corporation</Owner>
         <Source>2</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/10274.xml</DDF>
+        <DDF>10274.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -2670,7 +2670,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>South East Water Corporation</Owner>
         <Source>2</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/10275.xml</DDF>
+        <DDF>10275.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -2684,7 +2684,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>South East Water Corporation</Owner>
         <Source>2</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/10276.xml</DDF>
+        <DDF>10276.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -2698,7 +2698,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>South East Water Corporation</Owner>
         <Source>2</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/10277.xml</DDF>
+        <DDF>10277.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -2715,7 +2715,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>South East Water Corporation</Owner>
         <Source>2</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/10278.xml</DDF>
+        <DDF>10278.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -2732,7 +2732,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>South East Water Corporation</Owner>
         <Source>2</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/10279.xml</DDF>
+        <DDF>10279.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -2746,7 +2746,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>South East Water Corporation</Owner>
         <Source>2</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/10280.xml</DDF>
+        <DDF>10280.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -2760,7 +2760,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>South East Water Corporation</Owner>
         <Source>2</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/10281.xml</DDF>
+        <DDF>10281.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -2774,7 +2774,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>South East Water Corporation</Owner>
         <Source>2</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/10282.xml</DDF>
+        <DDF>10282.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -2788,7 +2788,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>South East Water Corporation</Owner>
         <Source>2</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/10283.xml</DDF>
+        <DDF>10283.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -2802,7 +2802,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>South East Water Corporation</Owner>
         <Source>2</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/10284.xml</DDF>
+        <DDF>10284.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -2817,7 +2817,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>Huawei</Owner>
         <Source>2</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/10286.xml</DDF>
+        <DDF>10286.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -2831,7 +2831,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
          <Owner>South East Water Corporation</Owner>
          <Source>2</Source>
          <Ver>1.0</Ver>
-         <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/10290.xml</DDF>
+         <DDF>10290.xml</DDF>
          <Vorto></Vorto>
          <DDFLink>1</DDFLink>
          <TS></TS>
@@ -2845,7 +2845,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
          <Owner>South East Water Corporation</Owner>
          <Source>2</Source>
          <Ver>1.0</Ver>
-         <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/10291.xml</DDF>
+         <DDF>10291.xml</DDF>
          <Vorto></Vorto>
          <DDFLink>1</DDFLink>
          <TS></TS>
@@ -2859,7 +2859,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
          <Owner>South East Water Corporation</Owner>
          <Source>2</Source>
          <Ver>1.0</Ver>
-         <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/10292.xml</DDF>
+         <DDF>10292.xml</DDF>
          <Vorto></Vorto>
          <DDFLink>1</DDFLink>
          <TS></TS>
@@ -2874,7 +2874,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Owner>Verizon Wireless</Owner>
         <Source>2</Source>
         <Ver>1.0</Ver>
-        <DDF>http://www.openmobilealliance.org/tech/profiles/lwm2m/10299.xml</DDF>
+        <DDF>10299.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
