@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<DDFList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.openmobilealliance.org/tech/profiles/DDF2.xsd">
+    <Item>
+        <!-- Integer -->
+        <!-- ObjectID -->
+        <ObjectID>10242</ObjectID>
+        <!-- URN of the object -->
+        <URN>urn:oma:lwm2m:oma:10241</URN>
+        <!-- Name of the object -->
+        <Name>HostDeviceInfo</Name>
+        <!-- Description of the Object -->
+        <Description>This LWM2M Object provides a range of host device related information which can be queried by the LWM2M Server. The host device is any integrated device with an embedded cellular radio module.</Description>
+        <!-- Name of the organization that has registered the object -->
+        <Owner>AT&amp;T</Owner>
+        <!-- URL to the xml file describing the object -->
+        <DDF>10241.xml</DDF>
+        <!-- Link that opens the Object in the Vorto environment -->
+        <Vorto>http://vorto.eclipse.org/resolve/lwm2m/Object/ObjectID/10241</Vorto>
+        <!-- URL to the TS of the object, not visible, not used -->
+        <TS></TS>
+    </Item>
+</DDFList>
