@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<DDFList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.openmobilealliance.org/tech/profiles/DDF2.xsd">
+    <Item>
+        <ObjectID>2050</ObjectID>
+        <URN>urn:oma:lwm2m:oma:2050</URN>
+        <Name>CmdhDefaults</Name>
+        <Description>Defines which CMDH related parameters will be used by default.</Description>
+        <Owner>oneM2M</Owner>
+        <DDF>2050.xml</DDF>
+        <Vorto>http://vorto.eclipse.org/resolve/lwm2m/Object/ObjectID/2050</Vorto>
+        <TS></TS>
+    </Item>
+</DDFList>
