@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<DDFList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.openmobilealliance.org/tech/profiles/DDF2.xsd">
+    <Item>
+        <ObjectID>10243</ObjectID>
+        <URN>urn:oma:lwm2m:oma:10243</URN>
+        <Name>Single-Phase Power Meter</Name>
+        <Description>This Object provides the information to represent a generic Single-Phase Power Meter.</Description>
+        <Owner>Odins</Owner>
+        <DDF>10243.xml</DDF>
+        <Vorto>http://vorto.eclipse.org/resolve/lwm2m/Object/ObjectID/10243</Vorto>
+        <TS></TS>
+    </Item>
+</DDFList>
