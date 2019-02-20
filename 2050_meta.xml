@@ -2,7 +2,7 @@
 <DDFList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.openmobilealliance.org/tech/profiles/DDF2.xsd">
     <Item>
         <ObjectID>2050</ObjectID>
-        <URN>urn:oma:lwm2m:oma:2050</URN>
+        <URN>urn:oma:lwm2m:ext:2050</URN>
         <Name>CmdhDefaults</Name>
         <Description>Defines which CMDH related parameters will be used by default.</Description>
         <Owner>oneM2M</Owner>
