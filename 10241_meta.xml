@@ -35,8 +35,18 @@
         <Name>HostDeviceInfo</Name>
         <Description>This LWM2M Object provides a range of host device related information which can be queried by the LWM2M Server. The host device is any integrated device with an embedded cellular radio module.</Description>
         <Owner>AT&amp;T</Owner>
+        <DDF>rel3/10241.xml</DDF>
+        <Vorto>http://vorto.eclipse.org/resolve/lwm2m/Object/ObjectID/10241</Vorto>
+        <TS></TS>
+    </Item>
+    <Item>
+        <ObjectID>10241</ObjectID>
+        <URN>urn:oma:lwm2m:x:10241:1.3</URN>
+        <Name>HostDeviceInfo</Name>
+        <Description>This LWM2M Object provides a range of host device related information which can be queried by the LWM2M Server. The host device is any integrated device with an embedded cellular radio module.</Description>
+        <Owner>AT&amp;T</Owner>
         <DDF>10241.xml</DDF>
         <Vorto>http://vorto.eclipse.org/resolve/lwm2m/Object/ObjectID/10241</Vorto>
         <TS></TS>
-    </Item>   
+    </Item> 
 </DDFList>
