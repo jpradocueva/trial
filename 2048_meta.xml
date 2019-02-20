@@ -2,7 +2,7 @@
 <DDFList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.openmobilealliance.org/tech/profiles/DDF2.xsd">
     <Item>
         <ObjectID>2048</ObjectID>
-        <URN>urn:oma:lwm2m:oma:2048</URN>
+        <URN>urn:oma:lwm2m:ext:2048</URN>
         <Name>CmdhPolicy</Name>
         <Description>This Object provides links to a set of rules associated with a specific CSE that governs the behavior
             of that CSE regarding rejecting, buffering and sending request or response messages via the Mcc reference point.</Description>
