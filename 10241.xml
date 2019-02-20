@@ -14,9 +14,9 @@ DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
 		<Name>HostDeviceInfo</Name>
 		<Description1><![CDATA[This LWM2M Object provides a range of host device related information which can be queried by the LWM2M Server. The host device is any integrated device with an embedded cellular radio module.]]></Description1>
 		<ObjectID>10241</ObjectID>
-		<ObjectURN>urn:oma:lwm2m:x:10241</ObjectURN>
+		<ObjectURN>urn:oma:lwm2m:x:10241:1.3</ObjectURN>
 		<LWM2MVersion />
-		<ObjectVersion />
+		<ObjectVersion>1.3</ObjectVersion>
 		<MultipleInstances>Multiple</MultipleInstances>
 		<Mandatory>Mandatory</Mandatory>
 		<Resources>
