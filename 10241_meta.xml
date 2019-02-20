@@ -5,7 +5,7 @@
         <!-- ObjectID -->
         <ObjectID>10241</ObjectID>
         <!-- URN of the object -->
-        <URN>urn:oma:lwm2m:oma:10241</URN>
+        <URN>urn:oma:lwm2m:x:10241</URN>
         <!-- Name of the object -->
         <Name>HostDeviceInfo</Name>
         <!-- Description of the Object -->
@@ -21,7 +21,7 @@
     </Item>
     <Item>
         <ObjectID>10241</ObjectID>
-        <URN>urn:oma:lwm2m:oma:10241:1.1</URN>
+        <URN>urn:oma:lwm2m:x:10241:1.1</URN>
         <Name>HostDeviceInfo</Name>
         <Description>This LWM2M Object provides a range of host device related information which can be queried by the LWM2M Server. The host device is any integrated device with an embedded cellular radio module.</Description>
         <Owner>AT&amp;T</Owner>
@@ -31,7 +31,7 @@
     </Item>
     <Item>
         <ObjectID>10241</ObjectID>
-        <URN>urn:oma:lwm2m:oma:10241:1.2</URN>
+        <URN>urn:oma:lwm2m:x:10241:1.2</URN>
         <Name>HostDeviceInfo</Name>
         <Description>This LWM2M Object provides a range of host device related information which can be queried by the LWM2M Server. The host device is any integrated device with an embedded cellular radio module.</Description>
         <Owner>AT&amp;T</Owner>
