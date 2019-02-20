@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<DDFList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.openmobilealliance.org/tech/profiles/DDF2.xsd">
+    <Item>
+        <ObjectID>1</ObjectID>
+        <URN>urn:oma:lwm2m:oma:1</URN>
+        <Name>Server</Name>
+        <Description>This LwM2M Objects provides the data related to a LwM2M Server. A Bootstrap-Server has no such an Object Instance associated to it.</Description>
+        <Owner>OMA</Owner>
+        <DDF>LWM2M_Server-v1_0.xml</DDF>
+        <Vorto>http://vorto.eclipse.org/resolve/lwm2m/Object/ObjectID/1</Vorto>
+        <TS></TS>
+    </Item>
+    <Item>
+        <ObjectID>1</ObjectID>
+        <URN>urn:oma:lwm2m:oma:1:1.1</URN>
+        <Name>Server</Name>
+        <Description>This LwM2M Objects provides the data related to a LwM2M Server. A Bootstrap-Server has no such an Object Instance associated to it.</Description>
+        <Owner>OMA</Owner>
+        <DDF>LWM2M_Server-v1_1.xml</DDF>
+        <Vorto>http://vorto.eclipse.org/resolve/lwm2m/Object/ObjectID/1</Vorto>
+        <TS></TS>
+    </Item>
+</DDFList>

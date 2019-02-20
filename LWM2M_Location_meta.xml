@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<DDFList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.openmobilealliance.org/tech/profiles/DDF2.xsd">
+    <Item>
+        <ObjectID>3</ObjectID>
+        <URN>urn:oma:lwm2m:oma:6</URN>
+        <Name>Location</Name>
+        <Description>This LwM2M Objects provide a range of device related information which can be queried by the LwM2M Server, and a device reboot and factory reset function.</Description>
+        <Owner>OMA</Owner>
+        <DDF>LWM2M_Device-v1_0_1.xml</DDF>
+        <Vorto>http://vorto.eclipse.org/resolve/lwm2m/Object/ObjectID/6</Vorto>
+        <TS></TS>
+    </Item>
+</DDFList>
