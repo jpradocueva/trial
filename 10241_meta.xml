@@ -3,7 +3,7 @@
     <Item>
         <!-- Integer -->
         <!-- ObjectID -->
-        <ObjectID>10242</ObjectID>
+        <ObjectID>10241</ObjectID>
         <!-- URN of the object -->
         <URN>urn:oma:lwm2m:oma:10241</URN>
         <!-- Name of the object -->
@@ -19,4 +19,24 @@
         <!-- URL to the TS of the object, not visible, not used -->
         <TS></TS>
     </Item>
+    <Item>
+        <ObjectID>10241</ObjectID>
+        <URN>urn:oma:lwm2m:oma:10241:1.1</URN>
+        <Name>HostDeviceInfo</Name>
+        <Description>This LWM2M Object provides a range of host device related information which can be queried by the LWM2M Server. The host device is any integrated device with an embedded cellular radio module.</Description>
+        <Owner>AT&amp;T</Owner>
+        <DDF>rel1/10241.xml</DDF>
+        <Vorto>http://vorto.eclipse.org/resolve/lwm2m/Object/ObjectID/10241</Vorto>
+        <TS></TS>
+    </Item>
+    <Item>
+        <ObjectID>10241</ObjectID>
+        <URN>urn:oma:lwm2m:oma:10241:1.2</URN>
+        <Name>HostDeviceInfo</Name>
+        <Description>This LWM2M Object provides a range of host device related information which can be queried by the LWM2M Server. The host device is any integrated device with an embedded cellular radio module.</Description>
+        <Owner>AT&amp;T</Owner>
+        <DDF>rel2/10241.xml</DDF>
+        <Vorto>http://vorto.eclipse.org/resolve/lwm2m/Object/ObjectID/10241</Vorto>
+        <TS></TS>
+    </Item>   
 </DDFList>
