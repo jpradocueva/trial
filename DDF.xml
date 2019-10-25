@@ -48,12 +48,12 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
     <Item>
         <ObjectID>1</ObjectID>
         <URN>urn:oma:lwm2m:oma:1</URN>
-        <Name>LwM2M Server</Name>
+        <Name>1</Name>
         <Description>This LwM2M Objects provides the data related to a LwM2M Server. A Bootstrap-Server has no such an Object Instance associated to it.</Description>
         <Owner>OMA</Owner>
         <Source>0</Source>
-        <Ver>1.0</Ver>
-        <DDF>LWM2M_Server-v1_0.xml</DDF>
+        <Ver></Ver>
+        <DDF>1-20170208/1.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS>http://www.openmobilealliance.org/release/LightweightM2M/V1_0_2-20180209-A/OMA-TS-LightweightM2M-V1_0_2-20180209-A.pdf</TS>
@@ -62,13 +62,13 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
 
         <Item>
         <ObjectID>1</ObjectID>
-        <URN>urn:oma:lwm2m:oma:1:1.1</URN>
-        <Name>LwM2M Server</Name>
+        <URN>urn:oma:lwm2m:oma:1</URN>
+        <Name>1</Name>
         <Description>This LwM2M Objects provides the data related to a LwM2M Server. A Bootstrap-Server has no such an Object Instance associated to it.</Description>
         <Owner>OMA</Owner>
         <Source>0</Source>
-        <Ver>1.1</Ver>
-        <DDF>LWM2M_Server-v1_1.xml</DDF>
+        <Ver></Ver>
+        <DDF>1.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS>http://www.openmobilealliance.org/release/LightweightM2M/V1_1-20180710-A/OMA-TS-LightweightM2M_Core-V1_1-20180710-A.pdf</TS>
@@ -2468,8 +2468,8 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Description>This object allows manipulation of Runtime Database variables. Object deprecated with version 2.0 due to incorrect Type/Operation combination.</Description>
         <Owner>NetComm Wireless Limited</Owner>
         <Source>2</Source>
-        <Ver>1.0</Ver>
-        <DDF>10260.xml</DDF>
+        <Ver></Ver>
+        <DDF>10260-20170208/10260.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -2477,13 +2477,13 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
     </Item>
         <Item>
         <ObjectID>10260</ObjectID>
-        <URN>urn:oma:lwm2m:x:10260:2.0</URN>
+        <URN>urn:oma:lwm2m:x:10260</URN>
         <Name>RDB</Name>
         <Description>This object allows manipulation of Runtime Database variables.</Description>
         <Owner>NetComm Wireless Limited</Owner>
         <Source>2</Source>
-        <Ver>2.0</Ver>
-        <DDF>10260-2_0.xml</DDF>
+        <Ver></Ver>
+        <DDF>10260.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
