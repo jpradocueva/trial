@@ -1,0 +1,355 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+
+	FILE INFORMATION
+
+	Description
+		BCAST enabler - (Terminal Centric) Audience Measurement
+
+	Version: 1.1
+	Date:    29 Oct 2013
+
+	OMA Permanent Document
+		File: OMA-SUP-XSD_bcast_am-V1_1-20131029-A
+		Type: Text - XML Schema Definition
+
+	Public Reachable Information
+		Path: http://www.openmobilealliance.org/tech/profiles
+		Name: bcast_am-v1_1.xsd
+
+	NORMATIVE INFORMATION
+
+	Information about this file can be found in the latest revision of
+	the specification OMA-TS-BCAST_Services-V1_1 available at
+		http://www.openmobilealliance.org/
+
+	Send comments to technical-comments@mail.openmobilealliance.org
+
+	LEGAL DISCLAIMER
+
+	Use of this document is subject to all of the terms and conditions
+	of the Use Agreement located at
+		http://www.openmobilealliance.org/UseAgreement.html
+
+	You may use this document or any part of the document for internal
+	or educational purposes only, provided you do not modify, edit or
+	take out of context the information in this document in any manner.
+	Information contained in this document may be used, at your sole
+	risk, for any purposes.
+
+	You may not use this document in any other manner without the prior
+	written permission of the Open Mobile Alliance.  The Open Mobile
+	Alliance authorizes you to copy this document, provided that you
+	retain all copyright and other proprietary notices contained in the
+	original materials on any copies of the materials and that you
+	comply strictly with these terms.  This copyright permission does
+	not constitute an endorsement of the products or services.  The
+	Open Mobile Alliance assumes no responsibility for errors or
+	omissions in this document.
+
+	Each Open Mobile Alliance member has agreed to use reasonable
+	endeavors to inform the Open Mobile Alliance in a timely manner of
+	Essential IPR as it becomes aware that the Essential IPR is related
+	to the prepared or published specification.  However, the members
+	do not have an obligation to conduct IPR searches.  The declared
+	Essential IPR is publicly available to members and non-members of
+	the Open Mobile Alliance and may be found on the "OMA IPR
+	Declarations" list at http://www.openmobilealliance.org/ipr.html.
+	The Open Mobile Alliance has not conducted an independent IPR review
+	of this document and the information contained herein, and makes no
+	representations or warranties regarding third party IPR, including
+	without limitation patents, copyrights or trade secret rights.  This
+	document may contain inventions for which you must obtain licenses
+	from third parties before making, using or selling the inventions.
+	Defined terms above are set forth in the schedule to the Open Mobile
+	Alliance Application Form.
+
+	NO REPRESENTATIONS OR WARRANTIES (WHETHER EXPRESS OR IMPLIED) ARE
+	MADE BY THE OPEN MOBILE ALLIANCE OR ANY OPEN MOBILE ALLIANCE MEMBER
+	OR ITS AFFILIATES REGARDING ANY OF THE IPR'S REPRESENTED ON THE "OMA
+	IPR DECLARATIONS" LIST, INCLUDING, BUT NOT LIMITED TO THE ACCURACY,
+	COMPLETENESS, VALIDITY OR RELEVANCE OF THE INFORMATION OR WHETHER OR
+	NOT SUCH RIGHTS ARE ESSENTIAL OR NON-ESSENTIAL.
+
+	THE OPEN MOBILE ALLIANCE IS NOT LIABLE FOR AND HEREBY DISCLAIMS ANY
+	DIRECT, INDIRECT, PUNITIVE, SPECIAL, INCIDENTAL, CONSEQUENTIAL, OR
+	EXEMPLARY DAMAGES ARISING OUT OF OR IN CONNECTION WITH THE USE OF
+	DOCUMENTS AND THE INFORMATION CONTAINED IN THE DOCUMENTS.
+
+	Copyright 2013 Open Mobile Alliance Ltd.  All Rights Reserved.
+	Used with the permission of the Open Mobile Alliance Ltd. under the
+	terms set forth above.
+-->
+<!--
+	CHANGE HISTORY
+
+	29102013 Status changed to Approved by TP, TP Ref # OMA-TP-2013-0332-INP_BCAST_V1_1_ERP_for_final_Approval
+
+-->
+<xs:schema targetNamespace="urn:oma:xml:bcast:am:1.1"
+	xmlns="urn:oma:xml:bcast:am:1.1"
+	xmlns:xs="http://www.w3.org/2001/XMLSchema"
+	xmlns:pr="urn:oma:xml:bcast:pr:orderqueries:1.1"
+	xmlns:sg="urn:oma:xml:bcast:sg:fragments:1.1"
+	elementFormDefault="qualified" attributeFormDefault="unqualified">
+	<!-- Importing xml default declarations (like xml:lang and xml:space) -->
+	<xs:import namespace="http://www.w3.org/XML/1998/namespace" schemaLocation="http://www.w3.org/2001/xml.xsd"/>
+	<!-- Importing referenced BCAST namespaces -->
+	<xs:import namespace="urn:oma:xml:bcast:pr:orderqueries:1.1" schemaLocation="http://www.openmobilealliance.org/tech/profiles/bcast_pr_orderqueries-v1_1.xsd"/>
+	<xs:import namespace="urn:oma:xml:bcast:sg:fragments:1.1" schemaLocation="http://www.openmobilealliance.org/tech/profiles/bcast_sg_fragments-v1_1.xsd"/>
+	<!--
+	==========================
+	AudienceMeasurementTrigger message
+	==========================
+	-->
+	<xs:element name="AudienceMeasurementTrigger" type="AudienceMeasurementTriggerType"/>
+	<xs:complexType name="AudienceMeasurementTriggerType">
+		<xs:sequence>
+			<xs:element name="UserConsentInformation">
+				<xs:complexType>
+					<xs:sequence>
+						<xs:element name="CampaignName" type="pr:LanguageString" maxOccurs="unbounded"/>
+						<xs:element name="CampaignDescription" type="pr:LanguageString" maxOccurs="unbounded"/>
+					</xs:sequence>
+					<xs:attribute name="consentRequired" type="xs:boolean" use="required"/>
+				</xs:complexType>
+			</xs:element>
+			<xs:element name="ServerAddressURL" type="xs:anyURI"/>
+			<xs:element name="AdditionalInfoAddressURL" type="xs:anyURI" minOccurs="0"/>
+		</xs:sequence>
+		<xs:attribute name="campaignID" type="xs:unsignedInt" use="required"/>
+		<xs:attribute name="campaignStartTime" type="xs:unsignedInt" use="required"/>
+		<xs:attribute name="campaignEndTime" type="xs:unsignedInt" use="optional"/>
+	</xs:complexType>
+
+	<!--
+	==========================
+	AudienceMeasurementRequest message
+	==========================
+	-->
+	<xs:element name="AudienceMeasurementRequest" type="AudienceMeasurementRequestType"/>
+	<xs:complexType name="AudienceMeasurementRequestType">
+		<xs:sequence>
+			<xs:element name="UserID" type="pr:UserIDType" maxOccurs="unbounded"/>
+			<xs:element name="DeviceID" type="pr:DeviceIDType" maxOccurs="unbounded"/>
+		</xs:sequence>
+		<xs:attribute name="campaignID" type="xs:unsignedInt" use="required"/>
+		<xs:attribute name="requestID" type="xs:unsignedInt" use="required"/>
+		<xs:attribute name="userConsent" type="xs:boolean" use="optional" default="false"/>
+	</xs:complexType>
+	<!--
+	==========================
+	AudienceMeasurement Response
+	==========================
+	-->
+	<xs:element name="AudienceMeasurementResponse" type="AudienceMeasurementResponseType"/>
+	<xs:complexType name="AudienceMeasurementResponseType">
+		<xs:sequence>
+			<xs:element name="AudienceMeasurementConfigurationData" type="AMCDType" minOccurs="0"/>
+		</xs:sequence>
+		<xs:attribute name="requestID" type="xs:unsignedInt" use="required"/>
+		<xs:attribute name="globalStatusCode" type="pr:GlobalStatusCodeType" use="required"/>
+	</xs:complexType>
+	<!--
+	==========================
+	AudienceMeasurementReportDelivery (AMRD) message
+	==========================
+	-->
+	<xs:element name="AudienceMeasurementReportDelivery" type="AMRDType"/>
+	<xs:complexType name="AMRDType">
+		<xs:sequence>
+			<xs:element name="UserID" type="pr:UserIDType" maxOccurs="unbounded"/>
+			<xs:element name="DeviceID" type="pr:DeviceIDType" maxOccurs="unbounded"/>
+			<xs:element name="ServiceConsumptionMeasurementEvent" type="ServiceConsumptionMeasurementEventType" minOccurs="0" maxOccurs="unbounded"/>
+			<xs:element name="RecordingConsumptionMeasurementEvent" type="RecordingConsumptionMeasurementEventType" minOccurs="0" maxOccurs="unbounded"/>
+			<xs:element name="ProprietaryMeasurementEvent" type="ProprietaryMeasurementEventType" minOccurs="0" maxOccurs="unbounded"/>
+		</xs:sequence>
+		<xs:attribute name="campaignID" type="xs:unsignedInt" use="required"/>
+		<xs:attribute name="requestID" type="xs:unsignedInt" use="optional"/>
+		<xs:attribute name="version" type="xs:unsignedInt" use="required"/>
+	</xs:complexType>
+	<xs:complexType name="ServiceConsumptionMeasurementEventType">
+		<xs:sequence>
+			<xs:element name="GlobalContentIDRef" type="xs:anyURI" minOccurs="0" maxOccurs="unbounded"/>
+			<xs:element name="Start" type="AMRDStartType"/>
+			<xs:element name="End" type="AMRDEndType"/>
+		</xs:sequence>
+		<xs:attribute name="globalServiceIDRef" type="xs:anyURI" use="required"/>
+	</xs:complexType>
+
+	<xs:complexType name="AMRDStartType">
+		<xs:sequence>
+			<xs:element name="Location" minOccurs="0">
+				<xs:complexType>
+					<xs:choice>
+						<xs:element name="Point" type="MLPPointType"/>
+						<xs:element name="Cell" type="sg:CellTargetAreaType"/>
+					</xs:choice>
+				</xs:complexType>
+			</xs:element>
+		</xs:sequence>
+		<xs:attribute name="time" type="xs:unsignedInt" use="required"/>
+	</xs:complexType>
+	<xs:complexType name="AMRDEndType">
+		<xs:sequence>
+			<xs:element name="Location" minOccurs="0">
+				<xs:complexType>
+					<xs:choice>
+						<xs:element name="Point" type="MLPPointType"/>
+						<xs:element name="Cell" type="sg:CellTargetAreaType"/>
+					</xs:choice>
+					<xs:attribute name="sameAsStart" type="xs:boolean" use="optional" default="false"/>
+				</xs:complexType>
+			</xs:element>
+		</xs:sequence>
+		<xs:attribute name="time" type="xs:unsignedInt" use="required"/>
+	</xs:complexType>
+	<xs:complexType name="RecordingConsumptionMeasurementEventType">
+		<xs:sequence>
+			<xs:element name="GlobalContentIDRef" type="xs:anyURI" minOccurs="0" maxOccurs="unbounded"/>
+			<xs:element name="Recording" minOccurs="0">
+				<xs:complexType>
+					<xs:sequence>
+						<xs:element name="Start" type="AMRDStartType"/>
+						<xs:element name="End" type="AMRDEndType"/>
+					</xs:sequence>
+				</xs:complexType>
+			</xs:element>
+			<xs:element name="Consumption" minOccurs="0" maxOccurs="unbounded">
+				<xs:complexType>
+					<xs:sequence>
+						<xs:element name="Start">
+							<xs:complexType>
+								<xs:attribute name="time" type="xs:unsignedInt" use="required"/>
+							</xs:complexType>
+						</xs:element>
+						<xs:element name="End">
+							<xs:complexType>
+								<xs:attribute name="time" type="xs:unsignedInt" use="required"/>
+							</xs:complexType>
+						</xs:element>
+					</xs:sequence>
+				</xs:complexType>
+			</xs:element>
+		</xs:sequence>
+		<xs:attribute name="globalServiceIDRef" type="xs:anyURI" use="required"/>
+	</xs:complexType>
+
+	<xs:complexType name="ProprietaryMeasurementEventType">
+		<xs:sequence>
+			<xs:annotation>
+				<xs:documentation>
+					Proprietary or application-specific measurements not defined in this specification.
+					Their definition SHALL use a different namespace.
+				</xs:documentation>
+			</xs:annotation>
+			<xs:any namespace="##other" processContents="skip" minOccurs="0" maxOccurs="unbounded"/>
+		</xs:sequence>
+	</xs:complexType>
+
+	<!--
+	==========================
+	Audience Measurement Report Response (AMRR)
+	==========================
+	-->
+	<xs:element name="AudienceMeasurementReportResponse" type="AMRRType"/>
+	<xs:complexType name="AMRRType">
+		<xs:sequence>
+			<xs:element name="AudienceMeasurementConfigurationData" type="AMCDType" minOccurs="0"/>
+		</xs:sequence>
+		<xs:attribute name="campaignID" type="xs:unsignedInt" use="required"/>
+		<xs:attribute name="requestID" type="xs:unsignedInt" use="optional"/>
+		<xs:attribute name="globalStatusCode" type="pr:GlobalStatusCodeType" use="required"/>
+	</xs:complexType>
+	<!--
+	==========================
+	Audience Measurement Report Trigger (AMRT)
+	==========================
+	-->
+	<xs:element name="AudienceMeasurementReportTrigger" type="AMRTType"/>
+	<xs:complexType name="AMRTType">
+		<xs:sequence>
+			<xs:element name="BSMID" type="xs:string"/>
+			<xs:element name="DeviceID" type="pr:DeviceIDType" maxOccurs="unbounded"/>
+			<xs:element name="CampaignID" type="xs:unsignedInt" minOccurs="0" maxOccurs="unbounded"/>
+		</xs:sequence>
+	</xs:complexType>
+	<!--
+	==========================
+	Audience Measurement Configuration Data
+	==========================
+	-->
+	<xs:element name="AudienceMeasurementConfigurationData" type="AMCDType"/>
+	<xs:complexType name="AMCDType">
+		<xs:sequence>
+			<xs:element name="ReportInfo" type="ReportInfoType"/>
+			<xs:element name="RequestedMeasurementEvent" type="RequestedMeasurementEventType" minOccurs="0" maxOccurs="unbounded"/>
+			<xs:element name="ProprietaryMeasurementEvent" type="ProprietaryMeasurementEventType" minOccurs="0" maxOccurs="unbounded"/>
+		</xs:sequence>
+		<xs:attribute name="campaignID" type="xs:unsignedInt" use="required"/>
+		<xs:attribute name="campaignStartTime" type="xs:unsignedInt" use="required"/>
+		<xs:attribute name="campaignEndTime" type="xs:unsignedInt" use="required"/>
+		<xs:attribute name="version" type="xs:unsignedInt" use="required"/>
+	</xs:complexType>
+	<xs:complexType name="ReportInfoType">
+		<xs:sequence>
+			<xs:element name="PeriodicReporting" minOccurs="0">
+				<xs:complexType>
+					<xs:attribute name="randomOffset" type="xs:unsignedShort" use="required"/>
+					<xs:attribute name="reportingPeriod" type="xs:unsignedByte" use="required"/>
+				</xs:complexType>
+			</xs:element>
+			<xs:element name="DataThresholdReporting" minOccurs="0">
+				<xs:complexType>
+					<xs:attribute name="nbrOfEvents" type="xs:unsignedInt" use="required"/>
+				</xs:complexType>
+			</xs:element>
+			<xs:element name="TriggeredReporting" type="xs:anySimpleType" minOccurs="0"/>
+		</xs:sequence>
+		<xs:attribute name="serverURL" type="xs:anyURI" use="required"/>
+	</xs:complexType>
+	<xs:complexType name="RequestedMeasurementEventType">
+			<xs:attribute name="type" type="AMCDEventType" use="required"/>
+	</xs:complexType>
+	<!--
+	Type of Requested Measurement Event
+	0 – Service Consumption
+	1 – Recording Consumption
+	2 - 127 reserved for future use
+	128-255 reserved for proprietary use
+	-->
+	<xs:simpleType name="AMCDEventType">
+		<xs:union memberTypes="AMCDEventLRType pr:ReservedProprietaryExtByteRangeType"/>
+	</xs:simpleType>
+	<xs:simpleType name="AMCDEventLRType">
+		<xs:restriction base="xs:unsignedByte">
+			<xs:minInclusive value="0"/>
+			<xs:maxInclusive value="1"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<!-- MLP Point, see OMA-LIF-MLP-V3_1-20040316-C section 5.3.46 and MLP_SHAPE_310.dtd
+		<!ELEMENT	coord	(X, Y?, Z?)>
+		<!ELEMENT	X	(#PCDATA)>
+		<!ELEMENT	Y	(#PCDATA)>
+		<!ELEMENT	Z	(#PCDATA)>
+		<!ELEMENT	Point	(coord)>
+		<!ATTLIST	Point
+		gid ID	#IMPLIED
+		srsName CDATA	#IMPLIED>
+	-->
+	<xs:complexType name="MLPPointType">
+		<xs:sequence>
+			<xs:element name="coord">
+				<xs:complexType>
+					<xs:sequence>
+						<xs:element name="X" type="xs:string"/>
+						<xs:element name="Y" type="xs:string" minOccurs="0"/>
+						<xs:element name="Z" type="xs:string" minOccurs="0"/>
+					</xs:sequence>
+				</xs:complexType>
+			</xs:element>
+		</xs:sequence>
+		<xs:attribute name="gid" type="xs:ID" use="required"/>
+		<xs:attribute name="srsName" type="xs:string" use="required"/>
+	</xs:complexType>
+</xs:schema>
