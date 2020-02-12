@@ -96,9 +96,8 @@ earlier release is specifically required.
     multiple LwM2M Servers.
   - **XML Schema (SUP XSD)**  
     The LwM2M XML Schema definition for the LwM2M Objects.
-
-
-**Enabler Release Definition (ERELD)**  
-Lists all the component files in the release.
+    
+    
+### [**Documents for download**](/release/LightweightM2M/)
 
 </div>
