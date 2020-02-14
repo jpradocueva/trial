@@ -23,7 +23,8 @@ assignees: jpradocueva
 
 Concept            | Description
 :----------------|:------------------------------
-Number of ```Object(s)``` to register  | <your text>
-Number of ```Reusable Resource(s)``` to register  | <your text>
-Name of the Organization, Company or individual    | <your text>
-Comments  | <your text>
+Your name   | <input your text>
+Number of ```Object(s)``` to register  | <input your text>
+Number of ```Reusable Resource(s)``` to register  | <input your text>
+Name of the Organization, Company or individual    | <input your text>
+Comments  | <input your text>
