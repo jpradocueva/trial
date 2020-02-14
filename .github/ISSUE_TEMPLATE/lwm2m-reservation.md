@@ -18,7 +18,7 @@ assignees: jpradocueva
   - [ ] Private individuals (not allowed Reusable Resources registration)
   
 ## 3. Confirm Software License
-  - [ ] Tick this box confirming that the Object file contains a [software license](http://devtoolkit.openmobilealliance.org/OEditor/License).
+  - [ ] Tick this box confirming that the Object file will contain a [software license](http://devtoolkit.openmobilealliance.org/OEditor/License).
   
 
 Concept            | Description
