@@ -12,12 +12,12 @@ assignees: jpradocueva
   - [ ] ```Object```    
   - [ ] ```Reusable Resource```
   
-### 2. If you intend to register an LwM2M Object, then choose the [Object Class](http://www.openmobilealliance.org/wp/OMNA/LwM2M/LwM2MRegistry.html#registry-table): ###
+### 2. Type of Organization that is requesting the registration [Object Class](http://www.openmobilealliance.org/wp/OMNA/LwM2M/LwM2MRegistry.html#registry-table): ###
   - [ ] 3rd party Standards or Alliances
   - [ ] Private companies
   - [ ] Private individuals (not allowed Reusable Resources registration)
   
-## 3. Confirm Software License
+## 3. Confirm the inclusion of a Software License for each Object file
   - [ ] Please add an ```x``` to this box confirming that the Object file will contain a [software license](http://devtoolkit.openmobilealliance.org/OEditor/License).
   
 
